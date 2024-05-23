@@ -1,0 +1,1 @@
+All URLs in all_submissions.txt have passed validation
